@@ -1,2 +1,2 @@
 # SSL
-repositorio de maría victoria pasotti para sintaxis y semántica de los lenguajes 2026 (K2002).
+Este es mi repositorio para la cursada de Sintaxis y Semántica de Lenguajes
